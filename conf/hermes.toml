@@ -1,0 +1,14 @@
+[server]
+servers = ["http_server"]
+
+[http_server]
+#ip = ""
+port="9958"
+
+[postgres]
+host=""
+port=""
+user=""
+dbname=""
+password=""
+sslmode="disable"
